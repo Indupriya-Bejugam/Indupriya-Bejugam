@@ -21,7 +21,7 @@ A curious explorer in AI/ML, CloudOps, and Blockchain. Currently pursuing B.Tech
 ---
 
 - 📫 Reach me at: **indupriya.bejugam@gmail.com**  
-- 📂 Explore my work: [github.com/Ip-12345](https://github.com/Ip-12345)
+- 📂 Explore my work: [github.com/Indupriya-Bejugam](https://github.com/Indupriya-Bejugam)
 - 🌐 Visit my portfolio: [ip-12345.github.io/Personal-Blog](http://ip-12345.github.io/Personal-Blog)
 
 #### Languages  
